@@ -1,0 +1,89 @@
+.bags-and-accessoires,
+.coming-soon {
+  position: absolute;
+  top: 36px;
+  left: calc(50% - 79px);
+  font-size: var(--font-size-7xl);
+  line-height: 32px;
+  font-weight: 500;
+}
+.bags-and-accessoires {
+  top: 450px;
+  left: calc(50% - 133px);
+  color: var(--color-darkgray);
+}
+.frame-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  /* flex-shrink: 0; */
+}
+.privatestudio {
+  position: relative;
+  line-height: 32px;
+  font-weight: 500;
+} 
+.privatestudio:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.frame-group,
+.frame-parent {
+  position: absolute;
+  top: 650px;
+  left: calc(50% - 275px);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  width: 262px;
+  height: 34px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-sm);
+  text-align: left;
+}
+.frame-group {
+  left: calc(50% + 26px);
+}
+.csdcsdcscsdcsscd,
+.fdvdvfdfvdfvdfvdfvv {
+  position: absolute;
+  text-decoration: underline;
+  line-height: 32px;
+  font-weight: 500;
+  color: var(--color-red);
+  display: none;
+}
+.fdvdvfdfvdfvdfvdfvv {
+  top: 525px;
+  left: calc(50% - 244px);
+  width: 213px;
+}
+.csdcsdcscsdcsscd {
+  top: 524px;
+  left: calc(50% + 45px);
+}
+.logo-svg-1 {
+  position: absolute;
+  top: calc(50% - 180px);
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 130px;
+  overflow: hidden; 
+ 
+  
+}
+.macbook-pro-16-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-manrope);
+}
