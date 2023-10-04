@@ -21,6 +21,10 @@
     height: 49px;
     overflow: hidden;
   }
+ .instagram-parent:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }
   .instagram-icon {
     position: relative;
     width: 24px;
@@ -37,7 +41,6 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    text-decoration: underline;
   }
   .instagram-parent {
     border-radius: var(--br-5xs);
